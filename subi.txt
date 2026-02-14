@@ -1,1 +1,2 @@
-hello 
+hello
+this code is just for practice
